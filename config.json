@@ -58,6 +58,34 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-apis-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a RESTful API with CRUD operations using FastAPI framework",
+      "path": "assignments/rest-apis-fastapi",
+      "dueDate": "2026-02-27",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "charts-visualization",
+      "title": "Building Beautiful Charts with Charts Framework",
+      "description": "Create professional data visualizations using a charting framework with interactive features",
+      "path": "assignments/charts-visualization",
+      "dueDate": "2026-02-27",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
